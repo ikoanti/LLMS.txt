@@ -1,0 +1,14 @@
+User-Agent: GPTBot
+Disallow: /
+
+User-Agent: CCBot
+Disallow: /
+
+User-Agent: ClaudeBot
+Disallow: /
+
+User-Agent: GeminiBot
+Disallow: /
+
+User-Agent: *
+Allow: /
