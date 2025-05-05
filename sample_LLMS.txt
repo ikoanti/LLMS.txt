@@ -1,14 +1,5 @@
-User-Agent: GPTBot
-Disallow: /
-
-User-Agent: CCBot
-Disallow: /
-
-User-Agent: ClaudeBot
-Disallow: /
-
-User-Agent: GeminiBot
-Disallow: /
-
+# Allow all AI search and agent use
 User-Agent: *
 Allow: /
+
+Sitemap: https://www.example.com/sitemap.xml
