@@ -1,56 +1,25 @@
+# llms.txt
 
-# LLMS.txt
+The `llms.txt` initiative is an open, community-driven effort that empowers website owners to declare their preferences regarding access by Large Language Models (LLMs), similar to how `robots.txt` governs access by search engine crawlers.
 
-A simple and transparent initiative to give website owners control over access by Large Language Models (LLMs) and AI crawlers.
+## What is llms.txt?
 
-Inspired by [llmstxt.org](https://llmstxt.org/), this repository provides a community-maintained `robots.txt` format tailored to manage AI-specific bots like ChatGPT, Google Gemini, Claude, and others.
+`llms.txt` is a plaintext file placed at the root of your domain (e.g., `https://example.com/llms.txt`). It provides a standardized way to list LLM providers and express whether or not they are permitted to access and use your content for training, fine-tuning, or inference purposes.
 
----
+This approach promotes transparency, control, and respect for content rights in the age of AI-powered tools and platforms.
 
-## ✨ What is LLMS.txt?
+## Why Use llms.txt?
 
-LLMS.txt is not a new protocol or standard. It's a focused use of the existing `robots.txt` file to help website owners communicate their preferences to AI crawlers.
+- **Transparency** – Make your content usage policy clear to AI crawlers.
+- **Control** – Decide which LLMs may or may not use your content.
+- **Standardization** – Join a growing number of publishers in adopting a common method to communicate with LLMs.
 
-It’s part of an ongoing conversation around **consent, transparency, and the future of AI training data**.
-
----
-
-## 🧾 Use Cases
-
-- ✅ **Allow AI crawlers** to access your public content
-- ❌ **Disallow LLMs** from scraping your site
-- ⚙️ **Customize rules** for specific bots
-
----
-
-## 📄 Templates
-
-### Disallow All LLMs
+## Example llms.txt File
 
 ```txt
-User-agent: GPTBot
-Disallow: /
+# Disallow all LLMs
+* : disallow
 
-User-agent: Google-Extended
-Disallow: /
-
-User-agent: ClaudeBot
-Disallow: /
-
-User-agent: CCBot
-Disallow: /
-
-User-agent: ChatGPT-User
-Disallow: /
-
-User-agent: anthropic-ai
-Disallow: /
-
-User-agent: cohere-ai
-Disallow: /
-
-User-agent: FacebookBot
-Disallow: /
-
-User-agent: Applebot
-Disallow: /
+# Or allow specific LLMs
+openai.com : allow
+anthropic.com : disallow
