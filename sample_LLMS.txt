@@ -1,5 +1,45 @@
-# Allow all AI search and agent use
-User-Agent: *
-Allow: /
+# INTERSTATE 365
 
-Sitemap: https://www.example.com/sitemap.xml
+> High-quality trailer sales: wide selection of flatbed and step deck trailers for sale! Durable, reliable, and perfect for heavy loads. Find the best trailer for your needs today!
+
+**Key Terms:** flatbed trailers, step deck trailers, trailer sales, financing
+
+## Inventory
+
+-[Available Trailers](https://interstate365.com/product-category/trailers/)
+-[3 Axle Trailers](https://interstate365.com/product-category/trailers/triple-axle-trailers/)
+-[2 Axle Trailers](https://interstate365.com/product-category/trailers/double-axle-trailers/)
+-[Flatbed Trailers](https://interstate365.com/product-category/trailers/flatbed-trailers/
+-[Step Deck Trailers](https://interstate365.com/product-category/trailers/step-deck-trailers/)
+
+## Examples of Products
+
+-[2026 REITNOUER MAXMISER 53Ã—102](https://interstate365.com/product/2026-reitnouer-maxmiser-53x102/)
+-[2026 REITNOUER BIG BUBBA FLATBED TRAILER](https://interstate365.com/product/2026-reitnouer-big-bubba-flatbed-trailer/)
+-[2026 REITNOUER MAXMISER â€“ SLIDING AXLE](https://interstate365.com/product/2026-reitnouer-maxmiser-sliding-axle/)
+-[2026 REITNOUER DROPMISER 17.5 STEP DECK TRAILER](https://interstate365.com/product/2026-reitnouer-dropmiser-17-5-step-deck-trailer/)
+
+## Services
+
+-[Trailer Sales](https://interstate365.com/services/trailer-sales/)
+-[Financing Options](https://interstate365.com/services/financing/)
+-[Dealiship](https://interstate365.com/dealership/)
+
+
+## Resources
+
+-[Blog](https://interstate365.com/blog/)
+-[Contact Us](https://interstate365.com/contact-us/)
+-[FAQ](https://interstate365.com/faq/)
+
+## Brands
+-[Reitnouer Trailers](https://interstate365.com/reitnouer-trailers/)
+
+## Company Information
+
+-[About Us](https://interstate365.com/about-us/)
+-[Privacy Policy](https://interstate365.com/privacy-policy/)
+-[Terms and Conditions](https://interstate365.com/terms-and-conditions/)
+-[Return Policy](https://interstate365.com/return-policy/)
+
+<!-- Language: en -->
