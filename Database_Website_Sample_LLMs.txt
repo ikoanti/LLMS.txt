@@ -1,0 +1,49 @@
+# аГутэр Бэтэр
+
+> База данных еврейских захоронений: Услуги по уходу за еврейскими захоронениями, Чтение молитв в память об усопших, Поиск еврейских захоронений
+
+Key Terms: Поиск захоронений, уход за еврейскими могилами, чтение молитв, база данных еврейских могил
+
+## Услуги
+
+-[Услуги по уходу за еврейскими захоронениями](https://aguterbeter.com/uslugi-po-uhodu-za-evrejskimi-zahoroneniyami/): Мы обеспечим надлежащий уход за могилами в соответствии с еврейскими традициями
+-[Чтение молитв в память об усопших](https://aguterbeter.com/chtenie-molitv-v-pamyat-ob-usopshih/): Мы прочтем молитву с уважением к традиции в синагоге или на кладбище для возвышение души усопшего
+-[Поиск еврейских захоронений на кладбищах](https://aguterbeter.com/poisk-evrejskih-zahoronenij-na-kladbishhah/): Мы поможем вам найти места захоронения ваших близких
+
+## База данных еврейских захоронений по России
+
+-[Еврейское кладбище Астрахани](https://aguterbeter.com/evrejskoe-kladbishhe-astrahani/)
+-[Еврейское кладбище Буйнакска](https://aguterbeter.com/evrejskoe-kladbishhe-bujnakska/)
+-[Аллея Славы Владикавказа](https://aguterbeter.com/alleya-slavy-vladikavkaza/)
+-[Еврейское кладбище Владикавказа](https://aguterbeter.com/evrejskoe-kladbishhe-vladikavkaza/)
+-[Коминтерновское кладбище, Воронеж](https://aguterbeter.com/kominternovskoe-kladbishhe/)
+-[Еврейское кладбище Дербента](https://aguterbeter.com/evrejskoe-kladbishhe-derbent/)
+-[Михайловское кладбище, Екатеринбург](https://aguterbeter.com/mihajlovskoe-kladbishhe/)
+-[Северное кладбище Екатеринбурга](https://aguterbeter.com/severnoe-kladbishhe-ekaterinburga/)
+-[Еврейское кладбище Иркутска](https://aguterbeter.com/evrejskoe-kladbishhe-irkutska/)
+-[Ново-Ленинское кладбище Иркутска](https://aguterbeter.com/novo-leninskoe-kladbishhe/)
+-[Радищевское кладбище Иркутска](https://aguterbeter.com/radishhevskoe-kladbishhe/)
+-[Арское кладбище, Казань](https://aguterbeter.com/arskoe-kladbishhe/)
+-[Самосыровское кладбище, Казань](https://aguterbeter.com/samosyrovskoe-kladbishhe/)
+-[Семионовское кладбище, Калуга](https://aguterbeter.com/semionovskoe-kladbishhe/)
+-[Ново-Макарьевское кладбище, Киров](https://aguterbeter.com/novomakarevskoe-kladbishhe/)
+-[Пенягинское кладбище, Красногорск](https://aguterbeter.com/penyaginskoe-kladbishhe/)
+-[Еврейское кладбище Курска](https://aguterbeter.com/evrejskoe-kladbishhe-kurska/)
+-[Северное кладбище Курска](https://aguterbeter.com/severnoe-kladbishhe-kurska/)
+-[Южное кладбище Курска](https://aguterbeter.com/yuzhnoe-kladbishhe-kurska/)
+-[Еврейское кладбище Любавичи](https://aguterbeter.com/evrejskoe-kladbishhe-lyubavichi/)
+-[Еврейское кладбище Малой Вишеры](https://aguterbeter.com/evrejskoe-kladbishhe-maloj-vishery/)
+-[Интернациональное кладбище Махачкалы](https://aguterbeter.com/internaczionalnoe-kladbishhe-mahachkaly/)
+-[Старое русское кладбище Махачкалы](https://aguterbeter.com/staroe-russkoe-kladbishhe/)
+-[Ваганьковское кладбище, Москва](https://aguterbeter.com/vagankovskoe-kladbishhe/)
+-[Востряковское кладбище, Москва](https://aguterbeter.com/vostryakovskoe-kladbishhe/)
+-[Домодедовское кладбище, Москва](https://aguterbeter.com/domodedovskoe-kladbishhe/)
+-[Донское кладбище, Москва](https://aguterbeter.com/donskoe-kladbishhe/)
+-[Кунцевское кладбище, Москва](https://aguterbeter.com/kunczevskoe-kladbishhe/)
+-[Малаховское кладбище, Москва](https://aguterbeter.com/malahovskoe-kladbishhe/)
+-[Новодевичье кладбище, Москва](https://aguterbeter.com/novodeviche-kladbishhe/)
+-[Переделкинское кладбище](https://aguterbeter.com/peredelkinskoe-kladbishhe/)
+-[Преображенское кладбище](https://aguterbeter.com/preobrazhenskoe-kladbishhe/)
+-[Троекуровское кладбище](https://aguterbeter.com/troekurovskoe-kladbishhe/)
+-[Площадь Героев Новороссийска](https://aguterbeter.com/ploshhad-geroev-novorossijska/)
+-[Еврейское кладбище Омска](https://aguterbeter.com/evrejskoe-kladbishhe-omska/)
