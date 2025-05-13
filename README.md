@@ -14,12 +14,3 @@ This approach promotes transparency, control, and respect for content rights in 
 - **Control** – Decide which LLMs may or may not use your content.
 - **Standardization** – Join a growing number of publishers in adopting a common method to communicate with LLMs.
 
-## Example llms.txt File
-
-```txt
-# Disallow all LLMs
-* : disallow
-
-# Or allow specific LLMs
-openai.com : allow
-anthropic.com : disallow
